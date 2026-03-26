@@ -34,3 +34,9 @@ jobs:
           args: >
             -Dsonar.projectKey=Sambit-rgb_Java-Damn-Vulnerable-Bank
             -Dsonar.organization=sambit-rgb
+      # SonarCloud Configuration
+       sonar:
+       c3c:
+         enabled: false
+
+
